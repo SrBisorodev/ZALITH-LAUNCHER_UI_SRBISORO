@@ -1,18 +1,12 @@
 ## » SRBISORO ZALITHLAUNCHER UI «
 
-Minecraft Java Edition no celular 
+Minecraft Java Edition no celular
 
 ---
 
 ## 📦 » ZalithLauncher2:
 
-...column-start horizontal=Center
-
-...button  text="Verificar se tem atualização do ZL2"  event="check_update"
-
-...image  url="https://raw.githubusercontent.com/SrBisorodev/ZALITH-LAUNCHER_UI_SRBISORO/main/zl_icon-1024x1024.png" width=24% shape=0dp
-
-...column-end
+...button  text=" › Verificar se tem atualização do ZL2 ‹ "  event="check_update"
 
 ...button-outlined text="ZalithLauncher2 • Site oficial" event="url {https://www.zalithlauncher.cn/}"
 
@@ -26,4 +20,12 @@ Minecraft Java Edition no celular
 
 ---
 
-UI FEITA PELO: **SrBisoro**
+...column-start horizontal=Center
+
+...image url="https://raw.githubusercontent.com/SrBisorodev/ZALITH-LAUNCHER_UI_SRBISORO/main/zl_icon-1024x1024.png" width=8% shape=0dp
+
+...image url="https://raw.githubusercontent.com/SrBisorodev/ZALITH-LAUNCHER_UI_SRBISORO/main/IMG-20260903-WA0001.jpg" width=8% shape=0dp
+
+...column-end
+
+**ZalithLauncher2 • UI por SrBisoro**
