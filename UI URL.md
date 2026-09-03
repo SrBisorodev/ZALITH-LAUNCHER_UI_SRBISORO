@@ -8,7 +8,7 @@ Minecraft Java Edition no celular
 
 ...column-start horizontal=Center
 
-...button  text=" › Verificar se tem atualização do ZL2 ‹ "  event="check_update"
+...button  text="Verificar se tem atualização do ZL2"  event="check_update"
 
 ...image  url="https://raw.githubusercontent.com/SrBisorodev/ZALITH-LAUNCHER_UI_SRBISORO/main/zl_icon-1024x1024.png" width=24% shape=0dp
 
